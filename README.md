@@ -78,8 +78,6 @@ python tools/infer/predict_rec.py --image_dir sample.png --rec_model_dir inferen
 ## Output Summary / Result Screenshots
 
 * Model achieved **98.7% accuracy** on custom Tamil dataset
-* Outperforms existing OCR models
-* Successfully predicts complex shapes and curved characters
 * Inference real-time on GPU
 
 

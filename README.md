@@ -81,4 +81,4 @@ python tools/infer/predict_rec.py --image_dir sample.png --rec_model_dir inferen
 * Inference real-time on GPU
 
 
-
+##https://youtu.be/AiuOnr7NSCI?feature=shared

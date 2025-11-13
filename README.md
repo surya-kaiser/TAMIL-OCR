@@ -75,7 +75,7 @@ python tools/infer/predict_rec.py --image_dir sample.png --rec_model_dir inferen
 
 
 
-## Output Summary / Result Screenshots
+## Output Summary 
 
 * Model achieved **98.7% accuracy** on custom Tamil dataset
 * Inference real-time on GPU
